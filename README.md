@@ -3,7 +3,7 @@
 ### Hi, there, I'm Anil. :santa: 
 <br>
 
-##  React Native Developer | 
+##  Mobile App Developer
 
 
 <font color ="#5CE06E"> It is amazing what we achieve by just typing some stuff in an editor! :purple_heart:
