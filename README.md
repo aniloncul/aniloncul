@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/G5eO2XaXAly5a/giphy.gif" align="center">
 
-### Hi, there, I'm Anil. :santa: I am working on my own social media project and will release as soon as everything sinked in my mind.
+### Hi, there, I'm Anil. :santa: I am working on my own social media project and will release as soon as everything sink in my mind.
 <br>
 
 
